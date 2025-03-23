@@ -12,7 +12,6 @@ Based in Brazil, I'm a Software Developer and Computer Science Student
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DebLuiza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/DebLuiza/DebLuiza/blob/output/github-contribution-grid-snake.svg)
 <!--
 **DebLuiza/DebLuiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
