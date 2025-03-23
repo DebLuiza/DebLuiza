@@ -1,12 +1,12 @@
 # 👋 Hello! Welcome to my Github profile.
-# My name is Débora Luiza!
-# Based in Brazil, I'm a Software Developer and Computer Science Student
+My name is Débora Luiza!
+Based in Brazil, I'm a Software Developer and Computer Science Student
 
-## Technologies
-<i class="devicon-swift-plain colored"></i>
-<i class="devicon-java-plain colored"></i>
-<i class="devicon-react-original colored"></i>
-<i class="devicon-sass-original colored"></i>
+# Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
       
 
 <div style="width: 200px;">
