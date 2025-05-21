@@ -45,8 +45,7 @@ Sou apaixonada por resolver problemas com código, aprender novas tecnologias e 
 
 ## 📫 Onde me encontrar
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-- ✉️ debora@email.com (substitua pelo seu real)
+- ✉️ debora.paula05@gmail.com
 
 ---
 
