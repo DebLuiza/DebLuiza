@@ -2,7 +2,7 @@
 
 ## 💻 Sobre mim
 
-Meu nome é **Débora Luiza**, sou **Desenvolvedora de Software** e **estudante de Ciência da Computação**, com base no Brasil 🇧🇷.  
+Meu nome é **Débora Luiza**, sou **Desenvolvedora de Software** e **estudante de Ciência da Computação**, nascida no Brasil 🇧🇷.  
 Sou apaixonada por resolver problemas com código, aprender novas tecnologias e construir soluções que fazem a diferença.
 
 ---
@@ -10,7 +10,7 @@ Sou apaixonada por resolver problemas com código, aprender novas tecnologias e 
 ## 🌱 Atualmente estou:
 
 - 📚 Estudando **Ciência da Computação**
-- 🔍 Aprofundando meus conhecimentos em **Desenvolvimento Web** e **Cloud Computing**
+- 🔍 Aprofundando meus conhecimentos em **Desenvolvimento Web** e **DataBase**
 - 🤝 Aberta a colaborações em projetos interessantes
 
 ---
