@@ -6,10 +6,6 @@ Based in Brazil, I'm a Software Developer and Computer Science Student
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=DebLuiza&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-
-# Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DebLuiza/DebLuiza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebLuiza/DebLuiza/output/github-contribution-grid-snake.svg">
