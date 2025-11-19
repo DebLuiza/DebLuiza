@@ -10,7 +10,7 @@ Sou apaixonada por resolver problemas com código, aprender novas tecnologias e 
 ## 🌱 Atualmente estou:
 
 - 📚 Estudando **Ciência da Computação**
-- 🔍 Aprofundando meus conhecimentos em **Backend** e **DataBase**
+- 🔍 Aprofundando meus conhecimentos em **Backend**, **DataBase** e **IA**
 - 🤝 Aberta a colaborações em projetos interessantes
 
 ---
